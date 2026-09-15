@@ -1,0 +1,14 @@
+﻿{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "title": "Spotify Mobile Unlocked v1.0.0",
+  "releaseDate": "2026-09-15T21:50:00Z",
+  "apkUrl": "https://github.com/perceojon-creator/spotify-mobile-releases/releases/latest/download/spotify-unlocked.apk",
+  "changelog": [
+    "Playlists oficiales por Artista (This Is Bad Bunny, This Is The Weeknd, This Is Dua Lipa, etc.)",
+    "Carrusel de Artistas Populares con avatares y métricas",
+    "Buscador global en tiempo real de canciones y géneros",
+    "Motor de streaming de audio completo a 320 kbps (sin límites de 30s)",
+    "Canal de actualización OTA integrado con GitHub"
+  ]
+}
