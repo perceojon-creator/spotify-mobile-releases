@@ -1,15 +1,14 @@
 {
-  "version": "1.2.0",
-  "versionCode": 3,
-  "title": "Spotify Mobile Unlocked v1.2.0 (Redesign BlackHole, Spotube & RiMusic)",
-  "releaseDate": "2026-09-16T01:00:50.052Z",
+  "version": "1.3.0",
+  "versionCode": 4,
+  "title": "Spotify Mobile Unlocked v1.3.0 (Offline Downloads & Full Audio Fix)",
+  "releaseDate": "2026-09-16T01:18:06.361Z",
   "apkUrl": "https://github.com/perceojon-creator/spotify-mobile-releases/releases/latest/download/spotify-unlocked.apk",
   "changelog": [
-    "Fondo dinámico atmosférico con extracción de color dominante de carátula",
-    "Letras sincronizadas en tiempo real (LRCLIB dual mode) con karaoke visual y tap-to-seek",
-    "Carátulas en alta definición escaladas a 500x500 y 600x600 con resplandor",
-    "Pre-caching inteligente en segundo plano del siguiente tema (estilo RiMusic/InnerTune)",
-    "Motor de streaming a 320 kbps con descifrado DES-ECB (estilo BlackHole)",
-    "Canal de actualización OTA integrado con GitHub"
+    "Descarga offline de canciones directamente desde el reproductor a pantalla completa",
+    "Pestaña 'Descargas' en Tu Biblioteca para escuchar música 100% sin internet",
+    "Protección total contra cortes de 30 segundos (priorización de masters completos)",
+    "Fondo dinámico atmosférico con extracción de color de carátula en tiempo real",
+    "Letras sincronizadas en tiempo real (LRCLIB dual mode) con karaoke y tap-to-seek"
   ]
 }
