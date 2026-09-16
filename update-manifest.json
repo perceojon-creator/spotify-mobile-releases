@@ -1,14 +1,15 @@
-﻿{
-  "version": "1.0.0",
-  "versionCode": 1,
-  "title": "Spotify Mobile Unlocked v1.0.0",
-  "releaseDate": "2026-09-15T21:50:00Z",
+{
+  "version": "1.2.0",
+  "versionCode": 3,
+  "title": "Spotify Mobile Unlocked v1.2.0 (Redesign BlackHole, Spotube & RiMusic)",
+  "releaseDate": "2026-09-16T01:00:50.052Z",
   "apkUrl": "https://github.com/perceojon-creator/spotify-mobile-releases/releases/latest/download/spotify-unlocked.apk",
   "changelog": [
-    "Playlists oficiales por Artista (This Is Bad Bunny, This Is The Weeknd, This Is Dua Lipa, etc.)",
-    "Carrusel de Artistas Populares con avatares y métricas",
-    "Buscador global en tiempo real de canciones y géneros",
-    "Motor de streaming de audio completo a 320 kbps (sin límites de 30s)",
+    "Fondo dinámico atmosférico con extracción de color dominante de carátula",
+    "Letras sincronizadas en tiempo real (LRCLIB dual mode) con karaoke visual y tap-to-seek",
+    "Carátulas en alta definición escaladas a 500x500 y 600x600 con resplandor",
+    "Pre-caching inteligente en segundo plano del siguiente tema (estilo RiMusic/InnerTune)",
+    "Motor de streaming a 320 kbps con descifrado DES-ECB (estilo BlackHole)",
     "Canal de actualización OTA integrado con GitHub"
   ]
 }
